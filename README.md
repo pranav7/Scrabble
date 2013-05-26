@@ -1,4 +1,4 @@
 Scrabble
 ========
 
-Scrabble with words game for Android
+Scrabble with words for Android
