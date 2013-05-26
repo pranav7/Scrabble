@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scramble</string>
+    <string name="action_settings">Settings</string>
+    <string name="information">Unscramble the below word</string>
+    <string name="next">Give up?</string>
+    <string name="clear">&lt;-</string>
+</resources>
